@@ -1,0 +1,42 @@
+/* .heading{
+    border: 1px solid black;
+    height: 500px;
+    width: 200px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.card{
+    border: 1px solid black;
+}
+.description{
+    background-color: aqua;
+    min-height: 300px;
+    max-height: 700px;
+} */
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  /* border-width: 10px;
+    border-style: solid;
+    border-color: brown; */
+  border: 2px solid brown;
+  border-radius: 1000px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.circle {
+  margin: 40px;
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0QxSZCjz-8JefhrJrJwtL5i7utqDsRhv7Q&s');
+}

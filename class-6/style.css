@@ -1,0 +1,48 @@
+/* .container{
+    background-color: blue;
+} */
+body{
+    background-color: gray;
+}
+
+/* .container{
+    background-color: white;
+} */
+/* .input-box{
+    border: none;
+    outline: none;
+}
+
+.search-button{
+    border: none;
+    background-color: #0866FF;
+} */
+/* .container h1{
+    display: block;
+    visibility: hidden;
+}
+
+.box{
+    border: 1px solid black;
+    box-shadow: -10px 1px 10px rgb(18, 10, 7);
+    height:200px ;
+    width: 200px;
+
+} */
+
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    background-color: black;
+}
+
+.menu{
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    color: white;
+}

@@ -1,0 +1,16 @@
+
+.title{
+    background-color: black;
+    color: white;
+}
+
+.about h3{
+    color: darkblue;
+}
+
+ol li {
+    color: blue;
+}
+ul li{
+    color: tomato;
+}

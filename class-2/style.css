@@ -1,0 +1,36 @@
+/* h1{
+    color: red;
+} */
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.kuch-bhi{
+    color: white;
+    background-color: black;
+    opacity: 0;  
+}
+
+/* .text-align-center{
+    text-align: center;
+} */
+
+h1.text-align-center{
+    text-align: center;
+}
+
+#kuch-bhi2{
+    color: blue;
+}
+
+.parent p{
+    color: red;
+}
+
+.parent > p{
+    color: purple;
+}
+
+.parent h1{
+    color: blue;
+}

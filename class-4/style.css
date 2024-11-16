@@ -1,0 +1,49 @@
+/* .paragraph::first-line{
+    color: red;
+} */
+
+/* .paragraph:hover{
+    opacity: 0.5;
+    background-color: red;
+}
+
+a:link{
+    color: brown;
+}
+
+a:visited{
+    color: purple;
+} */
+
+a:hover{
+  color: red;
+}
+
+a:visited{
+  color: tomato;
+}
+
+.paragraph {
+  height: 250px;
+  width: 250px;
+  background-color: red;
+}
+
+.shadow-text {
+  font-size: 20px;
+  text-shadow: 0px 0px 10px blue;
+}
+
+.text-input:active {
+  background-color: red;
+}
+
+.text-input:focus {
+  background-color: aqua;
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+}
