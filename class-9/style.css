@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+
+.container{
+    background-color: aquamarine;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+}
+
+.menu{
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    color: #ffffff;
+}
+/* .box{
+    position: absolute;
+    bottom: 0;
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    color: white;
+} */
