@@ -1,0 +1,94 @@
+/* .container{
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.container:hover{
+    background-color: blue;
+}
+
+.container:hover .search-input{
+    background-color: blue;
+} */
+
+/* body{
+    margin: 0px;
+    padding: 0px;
+    height: 800px;
+    background-color: black;
+}
+
+p{
+    margin: 0px;
+}
+
+.container{
+    height: 50%;
+    background-color: aquamarine;
+} */
+
+/* .container{
+    background-color: blue;
+}
+.box{
+  width: 400px;
+}
+
+.child{
+    height: 60%;
+    background-color: red;
+} */
+
+
+/* .container{
+    display: flex;
+    background-color: gray;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    font-size: 40px;
+    line-height: 300px;
+} */
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+.menu{
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    color: #ffffff;
+}
+
+.heading-1{
+    position: relative;
+    top: 30px;
+    /* margin-top: 40px; */
+    /* background-color: red; */
+}
+
+
+.sticky-box{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+/* relative , fixed , absolute , sticky */
