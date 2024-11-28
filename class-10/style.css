@@ -1,0 +1,35 @@
+/* .box{
+    height: 400px;
+    width: 400px;
+    border-image: url('https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg') 11;
+} */
+
+
+.list{
+    list-style-type: upper-roman;
+    /* list-style-image: url('https://img.freepik.com/free-vector/blue-diamond-sticker-isolated_1308-85063.jpg'); */
+}
+.main-table{
+    border: 2px solid black!important;
+}
+
+.main-table , th , td {
+    border: 1px solid black;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+td, th{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+
+/* th{
+    border: 1px solid black;
+
+}
+td{
+    border: 1px solid black;
+
+} */

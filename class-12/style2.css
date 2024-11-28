@@ -1,0 +1,13 @@
+.container{
+    background-color: rgb(234, 70, 97);
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1920px;
+    margin: 0px auto;
+    color: white;
+    background-color: black;
+}
