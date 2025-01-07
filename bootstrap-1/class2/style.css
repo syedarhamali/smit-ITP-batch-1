@@ -1,0 +1,29 @@
+input{
+    border: 1px solid black;
+    outline: none;
+}
+
+input:focus{
+    border: none;
+    outline: 10px solid red;
+}
+
+.box{
+    height: 400px;
+    width: 400px;
+    border-collapse: collapse;
+}
+.box .card{
+    height: 200px;
+    width: 200px;
+    /* background-color: aquamarine; */
+    border: 5px solid black;
+   /* border-collapse: collapse; */
+}
+.box .card-2{
+    height: 200px;
+    width: 200px;
+    /* background-color: blue; */
+    border: 5px solid rgb(0, 0, 0);
+    /* border-collapse: collapse; */
+}
